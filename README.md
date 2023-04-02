@@ -1,6 +1,6 @@
 ## Download the starter kit
 
-npx degit https://github.com/ruben-xe/React-TypeScript-Webpack my-app
+npx degit https://github.com/ruben-xe/React-TypeScript-Webpack-Starter my-app
 
 ## Install dependencies
 
